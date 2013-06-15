@@ -1,0 +1,7 @@
+<test1>
+	<test2>hello world</test2>
+	<test2>you know me</test2>
+	<test3>
+		<test2>another</test2>
+	</test3>
+</test1>
